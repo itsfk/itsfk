@@ -1,10 +1,11 @@
 ### Hi there 👋
 I am Faiz Ahmed Khan. Recently Gradated in Master's of Information Technology from [La Trobe Univeristy](https://www.latrobe.edu.au/). Previously worked as a Data Mining Analyst at [HBL-Habib Bank Limited](https://www.hbl.com/)
 
+<!--
 **itsfk/itsfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 
 
 - 🔭 I’m currently working on a research project
