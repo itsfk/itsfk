@@ -3,7 +3,7 @@ I am Faiz Ahmed Khan. Recently Gradated in Master's of Information Technology fr
 
 <!--
 **itsfk/itsfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- 🤔 I’m looking for help with 
 Here are some ideas to get you started:
 -->
 
@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a research project
 - 🌱 I’m currently learning NLP and Azure Cloud
 - 👯 I’m looking to collaborate on AL/ML&DL Projects
-<!-- - 🤔 I’m looking for help with ...-->
 - 💬 Tall to me about Data Science and Big Data
 - 📫 How to reach me: faiz.ahmedkhan@outlook.com
 - ⚡ Fun fact: If I had to do it all over again, I probably wouldn’t learn Data Science the way I did.
