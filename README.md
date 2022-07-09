@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Faiz Ahmed Khan. Recently Graduated in Master's of Information Technology from [La Trobe Univeristy](https://www.latrobe.edu.au/). Previously worked as a Data Mining Analyst at [HBL-Habib Bank Limited](https://www.hbl.com/)
+I am Faiz Ahmed Khan. Currently working as a Data Consultant at [Servian](https://www.servian.com/). Also, Graduated in Master's of Information Technology from [La Trobe Univeristy](https://www.latrobe.edu.au/). Previously worked as a Data Mining Analyst at [HBL-Habib Bank Limited](https://www.hbl.com/)
 
 <!--
 **itsfk/itsfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
