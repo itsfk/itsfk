@@ -7,10 +7,9 @@ I am Faiz Ahmed Khan. Currently working as a Data Consultant at [Servian](https:
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on a research project
-- 🌱 I’m currently learning NLP and Azure Cloud
+- 🌱 I’m currently learning Databricks
 - 👯 I’m looking to collaborate on AL/ML&DL Projects
-- 💬 Tall to me about Data Science and Big Data
+- 💬 Talk to me about Data Engineering and Data Science
 - 📫 How to reach me: faiz.ahmedkhan@outlook.com
 - ⚡ Fun fact: If I had to do it all over again, I probably wouldn’t learn Data Science the way I did.
 
